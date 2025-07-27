@@ -13,8 +13,8 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = '7219760373:AAEKs59IFvgomVyiEIKUChSvXviASda_j-o'
-CHAT_ID = '-4507010052'
+TOKEN = ''
+CHAT_ID = ''
 
 app = Flask(__name__)
 
